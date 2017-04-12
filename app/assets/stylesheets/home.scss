@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+#left-sidebar {
+  margin-right: 50px;
+  width: 27%;
+  height: 1000px;
+  float: left;
+  background-color: #373737;
+  color: white;
+  padding-left: 20px;
+}
+
+#project-container {
+  margin-left: 20px;
+}
+
+#main {
+  text-align: center;
+  border: 2px black solid;
+  min-height: 1000px;
+  background-color: grey;
+}
+
